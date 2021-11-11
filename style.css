@@ -1,0 +1,241 @@
+.cabecalho {
+	font-family: Forte !important;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 0px;
+}
+
+.cabecalho {
+	position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #f2f5f5;
+    background-clip: border-box;
+    border: 1px solid #d7dfe3;
+}
+
+#destaque {
+	color: white;
+	font-weight: bold;
+	border: 2px solid #0000ff1f;
+    border-color: #0000ff1f;
+    border-radius: 0;
+    background-color: #4682B4;
+}
+
+p {
+	font-family: Ink Free;
+}
+
+ul {
+	font-family: Ink Free;
+}
+
+h3 {
+	font-family: Forte !important;
+	font-weight: bold;
+	text-align: center;
+}
+
+h4 {
+	font-family: Forte !important;
+	font-weight: bold
+}
+
+#imagem {
+	width: 250px;
+	margin-left: 550px;
+}
+
+#curiosidade {
+	display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #f2f5f5;
+    background-clip: border-box;
+    border: 1px solid #d7dfe3;
+}
+
+#curiosidade {
+	position: relative;
+	left: 0px;
+	margin-top: 20px;
+}
+
+.equipe {
+	text-align: center;
+	border: 2px solid blue;
+	border-color: #7f73c1;
+	border-radius: 0;
+}
+
+#paragrafo {
+	text-align: center;
+}
+
+.areaform {
+	font-family: Ink Free;
+	position: relative;
+	left: 30%;
+	top: 29%;
+	width: 320px;
+	height: 270px;
+}
+
+.areaform .formulario {
+	position: absolute;
+	display: block;
+}
+
+fieldset#form01 {
+	background-color: #7f73c1a8;
+	width: 560px;
+	height: 100px;
+}
+
+.formulario #nmcompleto {
+	position: absolute;
+	left: 17px;
+	margin-right: 5px;
+}
+
+.formulario input#nome {
+	position: absolute;
+	left: 114px;
+	top: 1px;
+	width: 210px;
+}
+
+.formulario #sexo {
+	position: absolute;
+	left: 17px;
+	top: 80px;
+	width: 220px;
+}
+
+.formulario #semail {
+	position: absolute;
+	left: 17px;
+	margin-top: 34px;
+	width: 230px;
+}
+
+.formulario input#email {
+	position: absolute;
+	left: 52px;
+	margin-top: 0px;
+	width: 210px;
+}
+
+.formulario #cel {
+	position: absolute;
+	left: 298px;
+	margin-top: 35px;
+	width: 240px;
+}
+
+.formulario input#celular {
+	position: absolute;
+	left: 60px;
+	margin-top: -1px;
+	width: 150px;
+}
+
+fieldset#form02 {
+	background-color: #7f73c1a8;
+	width: 560px;
+	height: 215px;
+}
+
+.formulario #endereco {
+	position: absolute;
+	left: 17px;
+	margin-right: 5px;
+}
+
+.formulario input#endereco {
+	position: absolute;
+	left: 80px;
+	top: 142px;
+	width: 260px;
+}
+
+.formulario #complemento {
+	position: absolute;
+	left: 351px;
+	margin-top: -1px;
+	width: 210px;
+}
+
+.formulario input#complemento {
+	position: absolute;
+	left: 448px;
+	margin-top: -1px;
+	width: 128px;
+}
+
+.formulario #bairro {
+	position: absolute;
+	left: 15px;
+	margin-top: 12px;
+	width: 230px;
+}
+
+.formulario input#bairro {
+	position: absolute;
+	left: 65px;
+	margin-top: 12px;
+	width: 200px;
+}
+
+.formulario #nendereco {
+	position: absolute;
+	left: 300px;
+	margin-top: 12px;
+	width: 240px;
+}
+
+.formulario input#nendereco {
+	position: absolute;
+	left: 443px;
+	margin-top: 12px;
+	width: 70px;
+}
+
+.formulario #cidade {
+	position: absolute;
+	left: 17px;
+	margin-top: 24px;
+	width: 230px;
+}
+
+.formulario input#cidade {
+	position: absolute;
+	left: 66px;
+	margin-top: 23px;
+	width: 190px;
+}
+
+.formulario #selecioneuf {
+	position: absolute;
+	left: 300px;
+	margin-top: 24px;
+	width: 230px;
+}
+
+.formulario select#uf {
+	position: absolute;
+	left: 408px;
+	margin-top: 25px;
+	width: 83px;
+}
+
+.formulario textarea#msg {
+	position: absolute;
+	left: 15px;
+	margin-top: 32px;
+	width: 560px;
+}
